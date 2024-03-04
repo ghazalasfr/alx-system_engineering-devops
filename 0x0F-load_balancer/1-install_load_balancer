@@ -35,4 +35,3 @@ sudo sed -i "$ a $backend" $hgproxy_conf_file
 
 # Restart HAProxy
 sudo service haproxy restart
-
